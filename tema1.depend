@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1585390347 source:c:\users\grosu\desktop\t1\tema1\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"file.h"
+	"list.h"
+	"main.h"
+
+1585250940 c:\users\grosu\desktop\t1\tema1\file.h
+	"list.h"
+
+1585251836 c:\users\grosu\desktop\t1\tema1\list.h
+
+1585248671 c:\users\grosu\desktop\t1\tema1\main.h
+
+1585252837 source:c:\users\grosu\desktop\t1\tema1\file.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"file.h"
+	"list.h"
+
+1585390124 source:c:\users\grosu\desktop\t1\tema1\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+	"file.h"
+	"main.h"
+
+1585252837 source:c:\users\grosu\desktop\laburi sd\t1\tema1\file.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"file.h"
+	"list.h"
+
+1589529950 c:\users\grosu\desktop\laburi sd\t1\tema1\file.h
+	"list.h"
+
+1585251836 c:\users\grosu\desktop\laburi sd\t1\tema1\list.h
+
+1585390124 source:c:\users\grosu\desktop\laburi sd\t1\tema1\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+	"file.h"
+	"main.h"
+
+1585248671 c:\users\grosu\desktop\laburi sd\t1\tema1\main.h
+
+1585390347 source:c:\users\grosu\desktop\laburi sd\t1\tema1\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"file.h"
+	"list.h"
+	"main.h"
+
