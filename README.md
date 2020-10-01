@@ -1,4 +1,4 @@
-Pentru a rula programul :
+Pentru a rula programul :<br />
 ```make build``` <br />
 ```make run``` <br />
 ```create fs``` pentru a porni minishell-ul <br />
